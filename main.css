@@ -1,0 +1,29 @@
+#Image
+{
+    border: 3px solid black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.indentElement
+{
+    margin-right: auto;
+    margin-left: 20px;
+}
+
+.percentWidth{
+    width: 20%
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.header{
+    color: lightgray;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
